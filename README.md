@@ -1,1 +1,2 @@
 # ebebek
+Java & QA Practicum
